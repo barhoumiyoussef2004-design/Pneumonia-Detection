@@ -98,8 +98,3 @@ kaggle
 - **Callbacks**: `ReduceLROnPlateau` (patience=2) triggered twice during fine-tuning, reducing LR from `1e-5` → `3e-6` → `1e-6`
 - **Class imbalance**: training set is skewed toward PNEUMONIA (~3:1); handled via class weights
 
----
-
-## License
-
-MIT
